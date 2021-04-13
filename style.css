@@ -84,45 +84,8 @@ section {
   font-weight: 600;
 }
 
-.animated-text {
-  height: 70px;
-  overflow: hidden;
-  position: relative;
-}
 
-.animated-text h3 {
-  color: #198754;
-  font-size: 52px;
-  font-weight: 700;
-  line-height: 70px;
-  letter-spacing: 1px;
-}
 
-.animated-text h3:nth-child(1) {
-  animation: text-move 10s infinite
-}
-
-@keyframes text-move {
-  0% {
-    margin-top: 0;
-  }
-
-  25% {
-    margin-top: -70px;
-  }
-
-  50% {
-    margin-top: -140px;
-  }
-
-  75% {
-    margin-top: -70px;
-  }
-
-  100% {
-    margin-top: 0;
-  }
-}
 
 .button:hover {
   background: #fff  !important;
