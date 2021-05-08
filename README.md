@@ -1,1 +1,1 @@
-My portfolio. Ozodbek.cf
+My portfolio is  Ozodbek.cf
